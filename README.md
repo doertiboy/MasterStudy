@@ -1,5 +1,5 @@
 # Biomechanic Investigation of Performance Fluency in Sport Climbing between Women and Men
-[![DOI](https://zenodo.org/badge/775339355.svg)](https://zenodo.org/doi/10.5281/zenodo.12808034)
+[![DOI](https://zenodo.org/badge/775339355.svg)](https://zenodo.org/doi/10.5281/zenodo.12808034) <br>
 Author: Dorothea Mauracher <br>
 <br>
 This repo was used for a master thesis at the MCI, investigating potential differences between female and male climbers. A study was conducted and the repo includes the data analysis and results. All data used is anonymized. <br>
